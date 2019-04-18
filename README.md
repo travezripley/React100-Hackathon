@@ -3,6 +3,7 @@ Fifth Project in the React100 * Module @ San Diego Code School
 #Author - Michel Roberts JR.
 
 #Modified by Travis Ripley, * Started Saturday April 13th, 2019 14:00.
+#(Took more than 72hrs - from plan to prototype) - That's ok, you don't got to love it, because the hood's gon' love it. 
 
 This project was bootstrapped with Create React App.
 
